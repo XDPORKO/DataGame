@@ -1,0 +1,307 @@
+[
+  {
+    "soal": "Kenapa pintu selalu berada di depan rumah?",
+    "jawab": "karena kalau di belakang namanya pintu belakang",
+    "alasan": "Definisi membuat jawaban menjadi tidak perlu rumit."
+  },
+  {
+    "soal": "Apa yang selalu datang setelah hujan?",
+    "jawab": "genangan",
+    "alasan": "Karena airnya menumpuk."
+  },
+  {
+    "soal": "Kenapa matahari tidak pernah kuliah?",
+    "jawab": "karena sudah punya banyak gelar",
+    "alasan": "Gelar panas, gelar sinar, gelar terbit, dan lainnya."
+  },
+  {
+    "soal": "Kenapa gajah tidak bisa masuk angkot?",
+    "jawab": "karena sopirnya tidak mau",
+    "alasan": "Tolong hargai aturan sopir."
+  },
+  {
+    "soal": "Kenapa kucing tidak pernah jadi presiden?",
+    "jawab": "karena tidak punya partai",
+    "alasan": "Tidak masuk syarat administrasi."
+  },
+  {
+    "soal": "Kenapa jarang melihat semut jatuh dari meja?",
+    "jawab": "karena dia punya enam rem",
+    "alasan": "Kakinya enam, otomatis remnya enam."
+  },
+  {
+    "soal": "Apa yang banyak dicari orang tetapi tidak pernah ditemukan?",
+    "jawab": "kesalahan orang lain",
+    "alasan": "Padahal yang dicari salah sendiri."
+  },
+  {
+    "soal": "Kenapa sapi tidak punya aplikasi?",
+    "jawab": "karena sapinya masih offline",
+    "alasan": "Belum tersambung internet."
+  },
+  {
+    "soal": "Kenapa ayam selalu bangun pagi?",
+    "jawab": "karena alarmnya internal",
+    "alasan": "Bawaan pabrik ayam."
+  },
+  {
+    "soal": "Mengapa sandal sering hilang di masjid?",
+    "jawab": "karena sandalnya tidak ikut shalat",
+    "alasan": "Dia menunggu di luar, rawan diambil."
+  },
+
+  {
+    "soal": "Kenapa air mata jatuh?",
+    "jawab": "karena tidak bisa naik",
+    "alasan": "Sifat gravitasi tidak mendukung."
+  },
+  {
+    "soal": "Kenapa kursi punya empat kaki tapi tidak bisa lari?",
+    "jawab": "karena tidak punya lutut",
+    "alasan": "Kakinya tidak lengkap bagian sendinya."
+  },
+  {
+    "soal": "Mengapa angin tidak bisa kuliah?",
+    "jawab": "karena tidak punya identitas",
+    "alasan": "KTP-nya tidak ada."
+  },
+  {
+    "soal": "Apa yang tidak bisa basah walau kena air?",
+    "jawab": "bayangan",
+    "alasan": "Tidak memiliki massa."
+  },
+  {
+    "soal": "Kenapa nasi goreng tidak ada nasinya?",
+    "jawab": "karena itu namanya kerupuk",
+    "alasan": "Kalau tanpa nasi tidak pantas disebut nasi goreng."
+  },
+  {
+    "soal": "Kenapa kulkas tidak pernah protes?",
+    "jawab": "karena dia sudah dingin",
+    "alasan": "Hatinya beku."
+  },
+  {
+    "soal": "Mengapa jam dinding tidak bisa tidur?",
+    "jawab": "karena waktu terus berjalan",
+    "alasan": "Jam harus bekerja 24 jam."
+  },
+  {
+    "soal": "Kenapa lampu merah sering bikin macet?",
+    "jawab": "karena warnanya provokatif",
+    "alasan": "Mengundang berhenti massal."
+  },
+  {
+    "soal": "Kenapa motor tidak bisa ke luar angkasa?",
+    "jawab": "karena bensinnya pertalite",
+    "alasan": "Belum kelas roket."
+  },
+  {
+    "soal": "Apa yang selalu ada dalam dompet tapi jarang digunakan?",
+    "jawab": "foto mantan",
+    "alasan": "Tidak berguna tapi tetap disimpan."
+  },
+
+  {
+    "soal": "Kenapa gunung disebut tinggi?",
+    "jawab": "karena kalau rendah bukan gunung",
+    "alasan": "Namanya bukit."
+  },
+  {
+    "soal": "Mengapa kursi goyang bisa bergerak?",
+    "jawab": "karena dia punya ritme",
+    "alasan": "Bawaan tempat duduk senior."
+  },
+  {
+    "soal": "Kenapa laut asin?",
+    "jawab": "karena ikannya jarang mandi",
+    "alasan": "Akhirnya airnya ikut asin."
+  },
+  {
+    "soal": "Mengapa sepeda punya bel?",
+    "jawab": "karena tidak punya sirine",
+    "alasan": "Agar tidak terlalu mewah."
+  },
+  {
+    "soal": "Kenapa tas sekolah berat?",
+    "jawab": "karena beban hidup",
+    "alasan": "Pelajaran penuh tekanan."
+  },
+  {
+    "soal": "Kenapa orang bule kulitnya putih?",
+    "jawab": "karena jarang panas-panasan",
+    "alasan": "Mereka masuk ruangan terus."
+  },
+  {
+    "soal": "Kenapa hati sering sakit?",
+    "jawab": "karena sering kena omongan",
+    "alasan": "Fitur sensitif tinggi."
+  },
+  {
+    "soal": "Apa yang bergerak tapi tidak hidup?",
+    "jawab": "kereta",
+    "alasan": "Mesin menggerakkan."
+  },
+  {
+    "soal": "Apa yang berdiri tapi tidak punya kaki?",
+    "jawab": "tiang listrik",
+    "alasan": "Dia tertancap bukan berdiri."
+  },
+  {
+    "soal": "Mengapa pesawat berada di langit?",
+    "jawab": "karena tidak bisa di tanah",
+    "alasan": "Sayapnya dirancang untuk udara."
+  },
+
+  {
+    "soal": "Mengapa halaman rumah ada rumputnya?",
+    "jawab": "karena kalau tidak itu namanya halaman kosong",
+    "alasan": "Rumput adalah syarat halaman hijau."
+  },
+  {
+    "soal": "Apa yang naik ketika turun?",
+    "jawab": "payung",
+    "alasan": "Dibuka saat hujan turun."
+  },
+  {
+    "soal": "Kenapa kolam renang tidak bisa kering?",
+    "jawab": "karena nanti jadi lapangan",
+    "alasan": "Bukan kolam lagi."
+  },
+  {
+    "soal": "Apa yang membuat orang maju tapi tidak bergerak?",
+    "jawab": "pangkat",
+    "alasan": "Naiknya karier."
+  },
+  {
+    "soal": "Kenapa angka delapan gemuk?",
+    "jawab": "karena makanannya tak terbatas",
+    "alasan": "Bentuknya bulat dua kali."
+  },
+  {
+    "soal": "Kenapa pohon tinggi?",
+    "jawab": "karena malu kalau pendek",
+    "alasan": "Gengsi antar tanaman."
+  },
+  {
+    "soal": "Apa yang selalu berada di tengah malam?",
+    "jawab": "huruf l",
+    "alasan": "maLam."
+  },
+  {
+    "soal": "Apa yang selalu memayungi manusia?",
+    "jawab": "awan",
+    "alasan": "Bentuk langit menutupi."
+  },
+  {
+    "soal": "Apa yang berjalan paling lambat?",
+    "jawab": "antrean",
+    "alasan": "Selalu lama."
+  },
+  {
+    "soal": "Mengapa sandal jepit tidak pernah serius?",
+    "jawab": "karena suka selip",
+    "alasan": "Tidak konsisten."
+  },
+
+  {
+    "soal": "Mengapa kucing suka mengeong?",
+    "jawab": "karena belum ada fitur chat",
+    "alasan": "Komunikasinya suara."
+  },
+  {
+    "soal": "Mengapa hitam selalu kalah dari putih?",
+    "jawab": "karena putih netral",
+    "alasan": "Hitam mudah kalah terang."
+  },
+  {
+    "soal": "Mengapa buku sejarah tebal?",
+    "jawab": "karena masa lalu terlalu banyak drama",
+    "alasan": "Peristiwa banyak."
+  },
+  {
+    "soal": "Kenapa orang sering lupa password?",
+    "jawab": "karena passwordnya rahasia",
+    "alasan": "Dirahasiakan bahkan dari diri sendiri."
+  },
+  {
+    "soal": "Kenapa gigi harus sikat?",
+    "jawab": "karena kalau tidak nanti marah",
+    "alasan": "Sakit gigi adalah bentuk kemarahan."
+  },
+  {
+    "soal": "Kenapa mobil tidak bisa berenang?",
+    "jawab": "karena ban-nya tidak bisa renang",
+    "alasan": "Perlu pelampung."
+  },
+  {
+    "soal": "Mengapa kita tidak bisa bernafas di air?",
+    "jawab": "karena belum punya insang",
+    "alasan": "Belum upgrade."
+  },
+  {
+    "soal": "Apa yang terus bertambah tapi tidak terlihat?",
+    "jawab": "pengalaman",
+    "alasan": "Hanya bisa dirasakan."
+  },
+  {
+    "soal": "Apa yang jatuh tapi tidak pernah pecah?",
+    "jawab": "malam",
+    "alasan": "Jatuh malam."
+  },
+  {
+    "soal": "Mengapa jalan tidak bisa tidur?",
+    "jawab": "karena terus dilalui",
+    "alasan": "Tidak sempat istirahat."
+  },
+
+  {
+    "soal": "Apa yang bisa lewat tapi tidak meninggalkan jejak?",
+    "jawab": "angin",
+    "alasan": "Tidak punya bentuk."
+  },
+  {
+    "soal": "Mengapa besi berat?",
+    "jawab": "karena makanannya paku",
+    "alasan": "Nutrisi padat."
+  },
+  {
+    "soal": "Mengapa kelereng bundar?",
+    "jawab": "karena kalau kotak itu rubik",
+    "alasan": "Produk berbeda."
+  },
+  {
+    "soal": "Mengapa ubin selalu dingin?",
+    "jawab": "karena hatinya keramik",
+    "alasan": "Kaku tidak berperasaan."
+  },
+  {
+    "soal": "Mengapa pohon pisang tidak berkayu?",
+    "jawab": "karena fokusnya di buah",
+    "alasan": "Tidak sempat bikin kayu."
+  },
+  {
+    "soal": "Mengapa jam pasir tidak pakai pasir pantai?",
+    "jawab": "karena nanti ada kepiting",
+    "alasan": "Menghambat aliran."
+  },
+  {
+    "soal": "Apa yang selalu kita ambil tetapi tidak kita simpan?",
+    "jawab": "napas",
+    "alasan": "Dikeluarkan lagi."
+  },
+  {
+    "soal": "Apa yang selalu di bawah dan tetap naik?",
+    "jawab": "bawah tanah",
+    "alasan": "Jika digali naik ke permukaan."
+  },
+  {
+    "soal": "Mengapa hari senin tidak disukai?",
+    "jawab": "karena dia membawa kenyataan",
+    "alasan": "Akhir libur."
+  },
+  {
+    "soal": "Kenapa foto tidak bisa bicara?",
+    "jawab": "karena sudah diabadikan",
+    "alasan": "Tidak ada suaranya."
+  }
+]
