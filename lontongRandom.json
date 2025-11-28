@@ -742,6 +742,136 @@
     "alasan": "Dunia terlalu berisik."
   },
   {
+    "soal": "Kenapa sepatu selalu berpasangan?",
+    "jawab": "Karena kalau sendiri namanya sandal.",
+    "alasan": "Sepatu nggak bisa jalan sendiri, beda sama sandal yang kadang cuma satu."
+  },
+  {
+    "soal": "Kenapa ayam menyeberang jalan?",
+    "jawab": "Untuk ke sisi lain.",
+    "alasan": "Karena kalau nggak, dia cuma ayam di situ-situ aja."
+  },
+  {
+    "soal": "Apa bedanya kucing sama surat?",
+    "jawab": "Kalau surat bisa dibuka.",
+    "alasan": "Kucing kalau dibuka bisa mencakar, surat cuma dibaca."
+  },
+  {
+    "soal": "Kenapa bulan selalu di langit malam?",
+    "jawab": "Karena kalau di siang hari kepanasan.",
+    "alasan": "Bulan nggak ada sunscreen, jadi nggak cocok di siang hari."
+  },
+  {
+    "soal": "Kenapa pohon tidak pernah lapar?",
+    "jawab": "Karena dia makan sinar matahari.",
+    "alasan": "Fotosintesis, tapi jangan dicoba makan pohon ya."
+  },
+  {
+    "soal": "Kenapa pensil selalu runcing di awal?",
+    "jawab": "Karena kalau tumpul namanya kapur.",
+    "alasan": "Kepenulisan butuh ujung tajam, beda sama kapur yang bisa tumpul."
+  },
+  {
+    "soal": "Kenapa es krim cepat meleleh?",
+    "jawab": "Karena panas hati manusia.",
+    "alasan": "Metafora aja, tapi emang kena panas juga leleh."
+  },
+  {
+    "soal": "Apa yang selalu basah tapi nggak pernah mandi?",
+    "jawab": "Air.",
+    "alasan": "Logika air, basah tapi nggak butuh sabun."
+  },
+  {
+    "soal": "Kenapa kalender nggak bisa ngomong?",
+    "jawab": "Karena dia cuma nempel di dinding.",
+    "alasan": "Kalender nggak punya mulut, beda sama jam yang bisa bunyi."
+  },
+  {
+    "soal": "Kenapa komputer nggak pernah capek?",
+    "jawab": "Karena dia cuma tidur siang (sleep mode).",
+    "alasan": "Sleep mode bukan tidur beneran, tapi energinya tetap aman."
+  },
+  {
+    "soal": "Kenapa buku selalu diam?",
+    "jawab": "Karena kalau ngomong namanya audiobook.",
+    "alasan": "Buku hanya tulisan, suara datang dari audiobook."
+  },
+  {
+    "soal": "Kenapa lampu nggak bisa lari?",
+    "jawab": "Karena kakinya nggak ada.",
+    "alasan": "Lampu butuh listrik, bukan otot."
+  },
+  {
+    "soal": "Kenapa ikan nggak pernah marah?",
+    "jawab": "Karena dia nggak bisa teriak.",
+    "alasan": "Ikan nggak punya pita suara, jadi diem aja."
+  },
+  {
+    "soal": "Kenapa pisang selalu kuning?",
+    "jawab": "Karena kalau biru namanya blueberry.",
+    "alasan": "Logika warna absurd ala Cak Lontong."
+  },
+  {
+    "soal": "Kenapa jam nggak bisa menari?",
+    "jawab": "Karena jarumnya cuma muter.",
+    "alasan": "Kalau jam menari, waktunya bakal kacau."
+  },
+  {
+    "soal": "Kenapa kursi nggak bisa berdiri sendiri?",
+    "jawab": "Karena dia nggak punya kaki yang jalan.",
+    "alasan": "Kursi cuma penopang, bukan makhluk hidup."
+  },
+  {
+    "soal": "Kenapa bantal selalu di atas tempat tidur?",
+    "jawab": "Karena kalau di bawah jadi karpet.",
+    "alasan": "Bantal memang untuk kepala, karpet untuk lantai."
+  },
+  {
+    "soal": "Kenapa sendok nggak bisa berenang?",
+    "jawab": "Karena dia takut air panas.",
+    "alasan": "Sendok logam panas kalau kena air panas."
+  },
+  {
+    "soal": "Kenapa mobil nggak bisa terbang?",
+    "jawab": "Karena dia nggak punya sayap.",
+    "alasan": "Mesin mobil nggak cukup, butuh aerodinamika juga."
+  },
+  {
+    "soal": "Kenapa pensil nggak bisa menulis sendiri?",
+    "jawab": "Karena dia nggak punya tangan.",
+    "alasan": "Perlu manusia biar ada tulisan."
+  },
+  {
+    "soal": "Kenapa es nggak bisa ngomong?",
+    "jawab": "Karena dia gampang mencair kalau panik.",
+    "alasan": "Es keras tapi nggak punya suara."
+  },
+  {
+    "soal": "Kenapa sepeda nggak bisa jalan sendiri?",
+    "jawab": "Karena nggak ada yang kayuh.",
+    "alasan": "Sepeda butuh manusia, bukan robot (kecuali motor listrik)."
+  },
+  {
+    "soal": "Kenapa telur nggak bisa lari?",
+    "jawab": "Karena cangkangnya keras tapi kaki nggak ada.",
+    "alasan": "Telur diam tapi bisa pecah kalau jatuh."
+  },
+  {
+    "soal": "Kenapa teko nggak bisa minum?",
+    "jawab": "Karena dia cuma wadah.",
+    "alasan": "Minum untuk manusia, teko buat dituangin air."
+  },
+  {
+    "soal": "Kenapa bintang nggak pernah jatuh ke bumi?",
+    "jawab": "Karena dia sibuk bersinar.",
+    "alasan": "Bintang jauh, jadi jatuh ke bumi cuma mitos."
+  },
+  {
+    "soal": "Kenapa rumah nggak bisa jalan-jalan?",
+    "jawab": "Karena fondasinya berat.",
+    "alasan": "Rumah diam, beda sama mobil atau sepeda."
+  },
+  {
     "soal": "Apa yang paling mudah marah?",
     "jawab": "dompet",
     "alasan": "Selalu kosong."
