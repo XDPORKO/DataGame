@@ -1,27 +1,79 @@
 [
-  {
-    "soal": "Buah apa yang paling sopan?",
-    "jawab": "salam",
-    "alasan": "Karena selalu memberi salam."
-  },
-  {
-    "soal": "Hewan apa yang tidak punya hidung?",
-    "jawab": "ikan",
-    "alasan": "Karena yang ada hidung ikan paus, dia bukan ikan."
-  },
-  {
-    "soal": "Sayur apa yang sering telat?",
-    "jawab": "kangkung",
-    "alasan": "Karena kangkungan alias kurang semangat."
-  },
-  {
-    "soal": "Ikan apa yang tidak bisa berenang?",
-    "jawab": "ikan asin",
-    "alasan": "Karena sudah wafat."
-  },
-  {
-    "soal": "Minuman apa yang selalu sabar?",
-    "jawab": "es teh",
-    "alasan": "Karena selalu 'teh-epeh, teh-epeh'."
-  }
+  { "soal": "Buah apa yang tidak bisa dimakan?", "jawab": "buah pikiran", "alasan": "Karena hanya muncul di kepala." },
+  { "soal": "Hewan apa yang suka nebeng?", "jawab": "kutu", "alasan": "Karena hidupnya menumpang." },
+  { "soal": "Minuman apa yang tidak bisa diminum?", "jawab": "air mata", "alasan": "Karena itu hasil emosi." },
+  { "soal": "Sayur apa yang selalu lembek?", "jawab": "kangkung rebus", "alasan": "Karena sudah direbus." },
+  { "soal": "Apa yang selalu datang tapi tidak pernah diundang?", "jawab": "tagihan", "alasan": "Karena kewajiban bulanan." },
+
+  { "soal": "Benda apa yang selalu ikut?", "jawab": "bayangan", "alasan": "Tidak bisa meninggalkan pemiliknya." },
+  { "soal": "Buah apa yang paling sering disapa?", "jawab": "salam", "alasan": "Karena bersuara salam." },
+  { "soal": "Hewan apa yang jalannya lambat sekali?", "jawab": "keong", "alasan": "Karena memang begitu nasibnya." },
+  { "soal": "Kue apa yang tidak bisa dimakan?", "jawab": "kue mimpi", "alasan": "Karena cuma khayalan." },
+  { "soal": "Ikan apa yang tidak bisa berenang?", "jawab": "ikan asin", "alasan": "Karena sudah meninggal." },
+
+  { "soal": "Buah apa yang tidak punya biji?", "jawab": "buah kerja keras", "alasan": "Karena itu metafora." },
+  { "soal": "Sayur apa yang paling santai?", "jawab": "selada", "alasan": "Karena selalu 'se-la-da' pelan." },
+  { "soal": "Apa yang bisa didengar tapi tidak terlihat?", "jawab": "hati yang tersakiti", "alasan": "Karena hanya terasa." },
+  { "soal": "Burung apa yang tidak terbang?", "jawab": "burung tidur", "alasan": "Karena sedang istirahat." },
+  { "soal": "Apa yang jatuh tapi tidak pecah?", "jawab": "malam", "alasan": "Karena jatuhnya malam hari." },
+
+  { "soal": "Makanan apa yang selalu kriuk?", "jawab": "keripik", "alasan": "Karena itu sifatnya." },
+  { "soal": "Benda apa yang bisa naik turun?", "jawab": "yo-yo", "alasan": "Karena itu fungsinya." },
+  { "soal": "Hewan apa yang paling sopan?", "jawab": "kura-kura", "alasan": "Karena selalu menunduk." },
+  { "soal": "Mobil apa yang tidak bergerak?", "jawab": "mobil legenda", "alasan": "Karena itu game." },
+  { "soal": "Baju apa yang tidak bisa dipakai?", "jawab": "baju kenangan mantan", "alasan": "Karena sakit hati." },
+
+  { "soal": "Apa yang bisa naik tapi tidak bisa turun?", "jawab": "umur", "alasan": "Karena itu hukum alam." },
+  { "soal": "Rumah apa yang tidak bisa ditempati?", "jawab": "rumah tangga orang", "alasan": "Karena bukan hakmu." },
+  { "soal": "Apa yang bergerak tapi diam?", "jawab": "kipas angin", "alasan": "Karena berputar di tempat." },
+  { "soal": "Binatang apa yang selalu basah?", "jawab": "ikan", "alasan": "Karena hidup di air." },
+  { "soal": "Sayur apa yang rajin olahraga?", "jawab": "tauge", "alasan": "Karena badannya lentur." },
+
+  { "soal": "Buah apa yang paling kaget?", "jawab": "pepaya", "alasan": "Karena suka dipetik tiba-tiba." },
+  { "soal": "Makanan apa yang ringan?", "jawab": "kerupuk", "alasan": "Karena dipenuhi angin." },
+  { "soal": "Apa yang besar tapi tidak terlihat?", "jawab": "masalah", "alasan": "Karena terasa, bukan terlihat." },
+  { "soal": "Kue apa yang mudah jatuh?", "jawab": "kue lapis", "alasan": "Karena licin." },
+  { "soal": "Hewan apa yang suka menabung?", "jawab": "semut", "alasan": "Karena suka simpan makanan." },
+
+  { "soal": "Apa yang tidak punya awal dan akhir?", "jawab": "lingkaran", "alasan": "Karena bentuknya begitu." },
+  { "soal": "Burung apa yang paling pintar matematika?", "jawab": "kalkun", "alasan": "Namanya mirip kalkulator." },
+  { "soal": "Ikan apa yang paling sabar?", "jawab": "ikan lele", "alasan": "Karena rela hidup di air keruh." },
+  { "soal": "Buah apa yang paling manis hatinya?", "jawab": "melon", "alasan": "Karena 'me-lon' untukmu." },
+  { "soal": "Minuman apa yang paling perhatian?", "jawab": "teh manis hangat", "alasan": "Selalu menemani sedihmu." },
+
+  { "soal": "Apa yang terbang tapi tidak punya sayap?", "jawab": "waktu", "alasan": "Karena waktu berjalan cepat." },
+  { "soal": "Sayur apa yang paling tegas?", "jawab": "kol", "alasan": "Karena selalu 'ngokol'." },
+  { "soal": "Buah apa yang mudah tersinggung?", "jawab": "belimbing", "alasan": "Karena banyak sisi." },
+  { "soal": "Binatang apa yang suka tidur?", "jawab": "koala", "alasan": "Karena itu rutinitasnya." },
+  { "soal": "Apa yang selalu mengikuti arah angin?", "jawab": "asap", "alasan": "Karena tidak punya bentuk pasti." },
+
+  { "soal": "Kue apa yang paling drama?", "jawab": "lumpur", "alasan": "Karena dari Surabaya." },
+  { "soal": "Apa yang tidak bisa tenggelam?", "jawab": "bayangan", "alasan": "Karena bukan benda fisik." },
+  { "soal": "Apa yang sering hilang tanpa jejak?", "jawab": "niat", "alasan": "Karena mudah goyah." },
+  { "soal": "Minuman apa yang misterius?", "jawab": "es teh jumbo", "alasan": "Kadang manis, kadang tidak." },
+  { "soal": "Apa yang panjang tapi tidak bisa dipegang?", "jawab": "cerita hidup", "alasan": "Karena tidak berbentuk." },
+
+  { "soal": "Sayur apa yang paling kuat?", "jawab": "wortel", "alasan": "Untuk mata kuat." },
+  { "soal": "Buah apa yang tidak punya kulit?", "jawab": "buah hati", "alasan": "Karena itu ungkapan." },
+  { "soal": "Hewan apa yang paling lucu?", "jawab": "panda", "alasan": "Karena wajahnya menggemaskan." },
+  { "soal": "Apa yang dingin tapi panas?", "jawab": "drama korea", "alasan": "Dingin suasana, panas konflik." },
+  { "soal": "Apa yang selalu berubah?", "jawab": "cuaca", "alasan": "Karena alam dinamis." },
+
+  { "soal": "Makanan apa yang murah meriah?", "jawab": "gorengan", "alasan": "Karena seribu dapat dua." },
+  { "soal": "Binatang apa yang paling hemat?", "jawab": "unta", "alasan": "Karena simpan air." },
+  { "soal": "Apa yang ada sebelum tidur?", "jawab": "ngantuk", "alasan": "Karena itulah tanda tidur." },
+  { "soal": "Buah apa yang paling kuat?", "jawab": "durian", "alasan": "Karena berduri." },
+  { "soal": "Apa yang paling mudah basah?", "jawab": "air", "alasan": "Karena wujudnya cair." },
+
+  { "soal": "Apa yang membuat orang bahagia?", "jawab": "gajian", "alasan": "Karena itu penyelamat bulanan." },
+  { "soal": "Benda apa yang sering hilang?", "jawab": "karet gelang", "alasan": "Karena selalu dipakai orang." },
+  { "soal": "Buah apa yang tidak pernah jatuh?", "jawab": "buah kesabaran", "alasan": "Karena tidak nyata." },
+  { "soal": "Hewan apa yang selalu kesal?", "jawab": "kucing", "alasan": "Karena suka dicuekin." },
+  { "soal": "Apa yang selalu berada di atas tapi tidak terlihat?", "jawab": "oksigen", "alasan": "Karena gas tidak tampak." },
+
+  { "soal": "Sayur apa yang paling rapuh?", "jawab": "kubis", "alasan": "Daunnya mudah robek." },
+  { "soal": "Apa yang selalu kembali?", "jawab": "karma", "alasan": "Karena semua tindakan ada balasannya." },
+  { "soal": "Benda apa yang berputar terus?", "jawab": "jam", "alasan": "Karena jarumnya muter." },
+  { "soal": "Apa yang bulat tapi tidak menggelinding?", "jawab": "perut buncit", "alasan": "Karena menempel di badan." },
+  { "soal": "Minuman apa yang paling takut sendiri?", "jawab": "kopi susu", "alasan": "Karena selalu ditemani." }
 ]
